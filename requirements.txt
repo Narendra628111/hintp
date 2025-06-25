@@ -1,0 +1,4 @@
+# Sample requirements
+google-generativeai
+qdrant-client
+gitpython
